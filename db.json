@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstname": "Ronak",
+      "lastname": "Bothra",
+      "email": "rj.rjain567@gmail.com",
+      "mobilephone": 8474081159,
+      "salary": "1000"
+    }
+  ]
+}
